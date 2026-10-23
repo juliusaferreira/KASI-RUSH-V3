@@ -1,0 +1,25 @@
+{
+  "fresh_kicks": {
+    "speedMultiplier": 1,
+    "powerupDurationMultiplier": 1,
+    "canTrainJump": false
+  },
+  "kasi_cruiser": {
+    "speedMultiplier": 1,
+    "powerupDurationMultiplier": 1.05,
+    "canTrainJump": true,
+    "canBlockObstacle": true
+  },
+  "bmx": {
+    "speedMultiplier": 1.15,
+    "powerupDurationMultiplier": 1.15,
+    "canTrainJump": true
+  },
+  "electric_scooter": {
+    "speedMultiplier": 1.2,
+    "powerupDurationMultiplier": 1.2,
+    "canTrainJump": true,
+    "smashSmallObstacles": true,
+    "smashCooldownSeconds": 30
+  }
+}

@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-arcade {
+    font-family: 'Titan One', 'Bungee', cursive, sans-serif;
+  }
+  .font-chunky {
+    font-family: 'Fredoka', cursive, sans-serif;
+  }
+  .stroke-arcade {
+    -webkit-text-stroke: 3px #1e293b;
+    paint-order: stroke fill;
+  }
+  .stroke-arcade-sm {
+    -webkit-text-stroke: 1.5px #0f172a;
+    paint-order: stroke fill;
+  }
+  .stroke-arcade-lg {
+    -webkit-text-stroke: 5px #090d16;
+    paint-order: stroke fill;
+  }
+  .text-shadow-arcade {
+    text-shadow: 0 4px 0 #0f172a, 0 6px 12px rgba(0,0,0,0.5);
+  }
+}
+
+/* Prevent double-tap zoom and pull-to-refresh on Android touch screens */
+html, body {
+  touch-action: none;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}

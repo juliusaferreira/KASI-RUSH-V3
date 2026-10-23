@@ -1,0 +1,534 @@
+{
+  "description": "Integrated South African 3D models; v5 replaces 19 v4 models, and v4 includes the identical four v3 heroes.",
+  "assets": {
+    "atm_kiosk": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        1.2,
+        2.5,
+        0.915
+      ]
+    },
+    "billboard": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        4.2,
+        4.0,
+        0.215
+      ]
+    },
+    "bmx_bicycle": {
+      "category": "rides",
+      "source": "v5 refined",
+      "dimensions": [
+        0.86,
+        1.558,
+        2.67
+      ]
+    },
+    "boardwalk_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        0.41,
+        12.0
+      ]
+    },
+    "bridge_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        2.6,
+        12.0
+      ]
+    },
+    "bus_stop_taxi_rank": {
+      "category": "buildings",
+      "source": "v4",
+      "dimensions": [
+        6.3,
+        3.19,
+        3.8
+      ]
+    },
+    "cape_town_bokaap_house": {
+      "category": "buildings",
+      "source": "v5 refined",
+      "dimensions": [
+        4.4,
+        3.86,
+        3.505
+      ]
+    },
+    "cape_town_sign": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.625,
+        3.2,
+        0.2
+      ]
+    },
+    "city_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        0.4,
+        12.0
+      ]
+    },
+    "coastal_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        0.48,
+        12.0
+      ]
+    },
+    "concrete_barrier": {
+      "category": "obstacles",
+      "source": "v4",
+      "dimensions": [
+        2.85,
+        1.565,
+        0.9
+      ]
+    },
+    "construction_cone": {
+      "category": "obstacles",
+      "source": "v4",
+      "dimensions": [
+        0.85,
+        0.8,
+        0.85
+      ]
+    },
+    "crates": {
+      "category": "obstacles",
+      "source": "v5 refined",
+      "dimensions": [
+        2.16,
+        1.761,
+        1.095
+      ]
+    },
+    "dumpster": {
+      "category": "obstacles",
+      "source": "v5 refined",
+      "dimensions": [
+        1.85,
+        1.685,
+        1.305
+      ]
+    },
+    "durban_lifeguard_hut": {
+      "category": "buildings",
+      "source": "v5 refined",
+      "dimensions": [
+        4.25,
+        4.715,
+        4.09
+      ]
+    },
+    "durban_sign": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.625,
+        3.2,
+        0.14
+      ]
+    },
+    "eastern_cape_house": {
+      "category": "buildings",
+      "source": "v5 refined",
+      "dimensions": [
+        4.929,
+        3.898,
+        5.64
+      ]
+    },
+    "eastern_cape_sign": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.625,
+        3.2,
+        0.14
+      ]
+    },
+    "electric_scooter": {
+      "category": "rides",
+      "source": "v5 refined",
+      "dimensions": [
+        0.7,
+        1.468,
+        1.62
+      ]
+    },
+    "fence": {
+      "category": "obstacles",
+      "source": "v5 refined",
+      "dimensions": [
+        2.49,
+        2.0,
+        0.09
+      ]
+    },
+    "fishing_boat": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        1.4,
+        2.325,
+        3.2
+      ]
+    },
+    "fresh_kicks": {
+      "category": "rides",
+      "source": "v5 refined",
+      "dimensions": [
+        1.03,
+        0.558,
+        1.09
+      ]
+    },
+    "graffiti_wall": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        5.0,
+        2.9,
+        0.45
+      ]
+    },
+    "indigenous_tree": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        4.242,
+        4.816,
+        4.238
+      ]
+    },
+    "jetpack": {
+      "category": "collectibles",
+      "source": "v4",
+      "dimensions": [
+        1.26,
+        1.505,
+        0.56
+      ]
+    },
+    "kasi_cruiser": {
+      "category": "rides",
+      "source": "v5 refined",
+      "dimensions": [
+        1.098,
+        0.353,
+        2.0
+      ]
+    },
+    "kasi_spaza_shop": {
+      "category": "buildings",
+      "source": "v5 refined",
+      "dimensions": [
+        4.44,
+        3.22,
+        4.39
+      ]
+    },
+    "lamp_post": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        1.045,
+        4.6,
+        0.3
+      ]
+    },
+    "magnet": {
+      "category": "collectibles",
+      "source": "v4",
+      "dimensions": [
+        1.09,
+        1.405,
+        0.3
+      ]
+    },
+    "market_stall": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        3.1,
+        2.5,
+        2.1
+      ]
+    },
+    "multiplier_2x": {
+      "category": "collectibles",
+      "source": "v4",
+      "dimensions": [
+        1.8,
+        1.8,
+        1.8
+      ]
+    },
+    "mystery_box": {
+      "category": "collectibles",
+      "source": "v4",
+      "dimensions": [
+        1.5,
+        1.495,
+        1.53
+      ]
+    },
+    "nelspruit_building": {
+      "category": "buildings",
+      "source": "v5 refined",
+      "dimensions": [
+        4.65,
+        3.85,
+        4.835
+      ]
+    },
+    "nelspruit_sign": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.625,
+        3.2,
+        0.14
+      ]
+    },
+    "palm_tree": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        4.242,
+        4.816,
+        4.238
+      ]
+    },
+    "power_pole": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.2,
+        5.4,
+        0.26
+      ]
+    },
+    "railway_station": {
+      "category": "buildings",
+      "source": "v4",
+      "dimensions": [
+        7.3,
+        3.59,
+        4.3
+      ]
+    },
+    "ramp": {
+      "category": "obstacles",
+      "source": "v5 refined",
+      "dimensions": [
+        1.57,
+        1.065,
+        1.85
+      ]
+    },
+    "rand_r1_coin": {
+      "category": "collectibles",
+      "source": "v4",
+      "dimensions": [
+        1.2,
+        1.2,
+        0.165
+      ]
+    },
+    "recycling_bin": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        1.35,
+        1.725,
+        1.15
+      ]
+    },
+    "road_barrier": {
+      "category": "obstacles",
+      "source": "v5 refined",
+      "dimensions": [
+        2.306,
+        1.28,
+        0.45
+      ]
+    },
+    "road_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        0.4,
+        12.0
+      ]
+    },
+    "sa_commuter_train": {
+      "category": "vehicles",
+      "source": "v5 refined",
+      "dimensions": [
+        3.326,
+        3.4,
+        12.495
+      ]
+    },
+    "sa_minibus_taxi": {
+      "category": "vehicles",
+      "source": "v5 refined",
+      "dimensions": [
+        2.58,
+        2.805,
+        5.632
+      ]
+    },
+    "shield": {
+      "category": "collectibles",
+      "source": "v4",
+      "dimensions": [
+        1.15,
+        1.5,
+        0.235
+      ]
+    },
+    "shipping_container": {
+      "category": "buildings",
+      "source": "v4",
+      "dimensions": [
+        2.7,
+        2.6,
+        6.05
+      ]
+    },
+    "soweto_shack": {
+      "category": "buildings",
+      "source": "v5 refined",
+      "dimensions": [
+        3.83,
+        2.675,
+        3.125
+      ]
+    },
+    "soweto_sign": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.625,
+        3.2,
+        0.14
+      ]
+    },
+    "street_bench": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.2,
+        1.795,
+        0.83
+      ]
+    },
+    "street_sign": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        2.625,
+        3.2,
+        0.14
+      ]
+    },
+    "surfboards": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        1.85,
+        2.3,
+        0.12
+      ]
+    },
+    "township_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        0.48,
+        12.0
+      ]
+    },
+    "traffic_light": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        0.5,
+        3.725,
+        0.405
+      ]
+    },
+    "trash_bags": {
+      "category": "props",
+      "source": "v4",
+      "dimensions": [
+        1.4,
+        0.8,
+        0.7
+      ]
+    },
+    "tunnel_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.15,
+        5.75,
+        12.0
+      ]
+    },
+    "tyre_stack": {
+      "category": "obstacles",
+      "source": "v5 refined",
+      "dimensions": [
+        1.2,
+        1.045,
+        1.2
+      ]
+    },
+    "urban_tile": {
+      "category": "tracks",
+      "source": "v4",
+      "dimensions": [
+        10.0,
+        0.48,
+        12.0
+      ]
+    },
+    "three_lane_railway_tile": {
+      "category": "tracks",
+      "source": "v5 refined",
+      "dimensions": [
+        12.0,
+        0.565,
+        10.0
+      ]
+    }
+  },
+  "v3_duplicates_confirmed": {
+    "sa_minibus_taxi": true,
+    "sa_commuter_train": true,
+    "soweto_shack": true,
+    "kasi_spaza_shop": true
+  },
+  "collider_note": "Colliders are reference meshes only. Original lane-based gameplay collisions remain authoritative."
+}

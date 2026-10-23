@@ -1,0 +1,6 @@
+{
+  "name": "Kasi Rush",
+  "description": "High-octane 3D endless runner across vibrant South African cities including Soweto, Durban, Cape Town, and Eastern Cape with swipe controls, hoverboards, powerups, and trains.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
